@@ -1,0 +1,43 @@
+Keyword is: import at line number: 1
+Literals: java.io.Serializable at line number: 1
+Symbol is: ; At line number: 1
+Keyword is: public at line number: 3
+Keyword is: class at line number: 3
+Literals: Employee at line number: 3
+Keyword is: implements at line number: 3
+Literals: Serializable at line number: 3
+Symbol is: { At line number: 4
+Keyword is: public at line number: 5
+Keyword is: String at line number: 5
+Literals: name at line number: 5
+Symbol is: ; At line number: 5
+Keyword is: public at line number: 6
+Keyword is: String at line number: 6
+Literals: address at line number: 6
+Symbol is: ; At line number: 6
+Keyword is: public at line number: 7
+Keyword is: int at line number: 7
+Literals: number at line number: 7
+Operator is: = At line number: 7
+Number is: 10.0
+Symbol is: ; At line number: 7
+Literals: Salary at line number: 8
+Literals: salary at line number: 8
+Operator is: = At line number: 8
+Keyword is: new at line number: 8
+Literals: Salary at line number: 8
+Symbol is: ( At line number: 8
+Symbol is: ) At line number: 8
+Symbol is: ; At line number: 8
+Literals: Friends at line number: 9
+Literals: friends at line number: 9
+Operator is: = At line number: 9
+Keyword is: new at line number: 9
+Literals: Friends at line number: 9
+Symbol is: ( At line number: 9
+Symbol is: ) At line number: 9
+Symbol is: ; At line number: 9
+Symbol is: } At line number: 10
+End of File encountered.
+
+Process finished with exit code 0
